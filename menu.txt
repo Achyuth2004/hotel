@@ -1,3 +1,6 @@
 dosa
 idli
 vada
+poori
+pongal
+upma
